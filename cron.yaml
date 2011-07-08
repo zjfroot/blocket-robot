@@ -1,0 +1,4 @@
+cron:
+- description: check blocket pentax
+  url: /blocket
+  schedule: every 3 hours
